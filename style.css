@@ -1,0 +1,25 @@
+form{
+    padding:10px;
+}
+label{
+    font-family: Arial;
+    font-size: 20px;
+    margin-bottom: 15px;
+    cursor: pointer;
+}
+input{
+    margin: 2px 0 20px 0;
+    font-size: 16px;
+}
+#name, #email, #phone{
+    width: 300px;
+    height: 25px;
+}
+#Male, #FeMale{
+    width: 20px;
+    text-align: center;
+    cursor: pointer;
+}
+#button{
+    cursor: pointer;
+}
